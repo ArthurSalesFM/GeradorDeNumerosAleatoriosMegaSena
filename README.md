@@ -1,9 +1,11 @@
 # Gerador de Numeros Aleatorios da MegaSena
-Criado por Arthur Felipe MS
+*Criado por Arthur Felipe MS*
 
 ## Projeto criado na linguagem
-Java
+* *Java*
 
-### API SWING
+### API utilizada
+* *SWING*
 
-#### IDE utilizada NetBeans
+#### IDE utilizada 
+* *NetBeans*
