@@ -1,2 +1,8 @@
 # GeradorDeNumerosAleatoriosMegaSena
-Projeto criado em Java, com a API SWING na IDE NetBeans
+Criado por Arthur Felipe MS
+
+## Projeto criado em Java
+
+### API SWING
+
+#### IDE utilizada NetBeans
