@@ -1,7 +1,8 @@
 # Gerador de Numeros Aleatorios da MegaSena
 Criado por Arthur Felipe MS
 
-## Projeto criado em Java
+## Projeto criado na linguagem
+Java
 
 ### API SWING
 
