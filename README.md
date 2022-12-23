@@ -1,5 +1,5 @@
 # Gerador de Numeros Aleatorios da MegaSena
-*Criado por Arthur Felipe MS*
+**Desenvolvido por** *Arthur Felipe MS*
 
 ## Projeto criado na linguagem
 * *Java*
