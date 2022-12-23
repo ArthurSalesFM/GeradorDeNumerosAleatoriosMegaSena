@@ -1,4 +1,4 @@
-# GeradorDeNumerosAleatoriosMegaSena
+# Gerador de Numeros Aleatorios da MegaSena
 Criado por Arthur Felipe MS
 
 ## Projeto criado em Java
